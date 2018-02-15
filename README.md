@@ -18,3 +18,6 @@ I found these resources useful.
 ### Continuous Delivery
 * [Pluralsight: Plan, Create, and Deploy to Azure With Visual Studio Online](https://app.pluralsight.com/library/courses/deploy-azure-visual-studio-online/table-of-contents)
 * [Book: Continuous Delivery with Windows and .NET](http://www.oreilly.com/webops-perf/free/continuous-delivery-with-windows-and-net.csp)
+
+## Hardware
+* [Pluralsight: CompTIA](https://app.pluralsight.com/paths/skills/comptia-a-plus)
